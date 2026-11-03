@@ -2,6 +2,20 @@
 
 **Run your SuperPlane AI software factory from your badge.**
 
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Factory Remote · Demo preview</strong><br><br>
+      <a href="assets/factory-remote-demo.gif">
+        <img src="assets/factory-remote-demo.gif" alt="Animated preview of the Factory Remote badge app" width="640" height="480">
+      </a><br><br>
+      Follow the workflow: Backlog → Implement → Verify → Done.<br>
+      <sub>Review the preview and share feedback through GitHub Issues.</sub>
+    </td>
+  </tr>
+</table>
+
 Factory Remote puts your SuperPlane factory board on the Universe 2026 badge:
 the same Backlog, line step (Implement), Verify and Done lanes as the
 SuperPlane dashboard. You can move work forward without a laptop:
